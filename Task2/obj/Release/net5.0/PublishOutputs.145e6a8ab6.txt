@@ -1,0 +1,5 @@
+C:\Users\sadiel\source\repos\Task2\bin\Release\net5.0\publish\Task2.exe
+C:\Users\sadiel\source\repos\Task2\bin\Release\net5.0\publish\Task2.dll
+C:\Users\sadiel\source\repos\Task2\bin\Release\net5.0\publish\Task2.deps.json
+C:\Users\sadiel\source\repos\Task2\bin\Release\net5.0\publish\Task2.runtimeconfig.json
+C:\Users\sadiel\source\repos\Task2\bin\Release\net5.0\publish\Task2.pdb

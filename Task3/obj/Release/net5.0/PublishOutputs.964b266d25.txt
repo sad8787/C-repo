@@ -1,0 +1,6 @@
+C:\Users\sadiel\source\repos\Task3\bin\Release\net5.0\publish\Task3.exe
+C:\Users\sadiel\source\repos\Task3\bin\Release\net5.0\publish\Task3.dll
+C:\Users\sadiel\source\repos\Task3\bin\Release\net5.0\publish\Task3.deps.json
+C:\Users\sadiel\source\repos\Task3\bin\Release\net5.0\publish\Task3.runtimeconfig.json
+C:\Users\sadiel\source\repos\Task3\bin\Release\net5.0\publish\Task3.pdb
+C:\Users\sadiel\source\repos\Task3\bin\Release\net5.0\publish\Newtonsoft.Json.dll

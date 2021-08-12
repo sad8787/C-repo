@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "d67HMzAtHbSA/jy//dJ3PwB97aTHyj8wKiyQQji93Kh9GJzjgZIZaAyMGst9gGaz1bZVPJWVpVPwQNLAsQZkoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sadiel\\source\\repos\\Task3\\Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadiel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sadiel\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\sadiel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sadiel\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\sadiel\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\sadiel\source\repos\Task1\bin\Release\net5.0\Task1.exe
+C:\Users\sadiel\source\repos\Task1\bin\Release\net5.0\Task1.deps.json
+C:\Users\sadiel\source\repos\Task1\bin\Release\net5.0\Task1.runtimeconfig.json
+C:\Users\sadiel\source\repos\Task1\bin\Release\net5.0\Task1.runtimeconfig.dev.json
+C:\Users\sadiel\source\repos\Task1\bin\Release\net5.0\Task1.dll
+C:\Users\sadiel\source\repos\Task1\bin\Release\net5.0\ref\Task1.dll
+C:\Users\sadiel\source\repos\Task1\bin\Release\net5.0\Task1.pdb
+C:\Users\sadiel\source\repos\Task1\obj\Release\net5.0\Task1.csproj.AssemblyReference.cache
+C:\Users\sadiel\source\repos\Task1\obj\Release\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadiel\source\repos\Task1\obj\Release\net5.0\Task1.AssemblyInfoInputs.cache
+C:\Users\sadiel\source\repos\Task1\obj\Release\net5.0\Task1.AssemblyInfo.cs
+C:\Users\sadiel\source\repos\Task1\obj\Release\net5.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\sadiel\source\repos\Task1\obj\Release\net5.0\Task1.dll
+C:\Users\sadiel\source\repos\Task1\obj\Release\net5.0\ref\Task1.dll
+C:\Users\sadiel\source\repos\Task1\obj\Release\net5.0\Task1.pdb
+C:\Users\sadiel\source\repos\Task1\obj\Release\net5.0\Task1.genruntimeconfig.cache
