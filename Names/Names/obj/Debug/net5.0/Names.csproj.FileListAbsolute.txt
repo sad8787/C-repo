@@ -1,0 +1,16 @@
+C:\Users\Sadiel\source\repos\Names\Names\obj\Debug\net5.0\Names.csproj.AssemblyReference.cache
+C:\Users\Sadiel\source\repos\Names\Names\obj\Debug\net5.0\Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadiel\source\repos\Names\Names\obj\Debug\net5.0\Names.AssemblyInfoInputs.cache
+C:\Users\Sadiel\source\repos\Names\Names\obj\Debug\net5.0\Names.AssemblyInfo.cs
+C:\Users\Sadiel\source\repos\Names\Names\obj\Debug\net5.0\Names.csproj.CoreCompileInputs.cache
+C:\Users\Sadiel\source\repos\Names\Names\bin\Debug\net5.0\Names.exe
+C:\Users\Sadiel\source\repos\Names\Names\bin\Debug\net5.0\Names.deps.json
+C:\Users\Sadiel\source\repos\Names\Names\bin\Debug\net5.0\Names.runtimeconfig.json
+C:\Users\Sadiel\source\repos\Names\Names\bin\Debug\net5.0\Names.runtimeconfig.dev.json
+C:\Users\Sadiel\source\repos\Names\Names\bin\Debug\net5.0\Names.dll
+C:\Users\Sadiel\source\repos\Names\Names\bin\Debug\net5.0\ref\Names.dll
+C:\Users\Sadiel\source\repos\Names\Names\bin\Debug\net5.0\Names.pdb
+C:\Users\Sadiel\source\repos\Names\Names\obj\Debug\net5.0\Names.dll
+C:\Users\Sadiel\source\repos\Names\Names\obj\Debug\net5.0\ref\Names.dll
+C:\Users\Sadiel\source\repos\Names\Names\obj\Debug\net5.0\Names.pdb
+C:\Users\Sadiel\source\repos\Names\Names\obj\Debug\net5.0\Names.genruntimeconfig.cache
