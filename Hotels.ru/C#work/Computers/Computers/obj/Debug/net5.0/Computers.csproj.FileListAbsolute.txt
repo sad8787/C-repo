@@ -1,0 +1,16 @@
+C:\Users\sadiel\source\repos\Computers\Computers\bin\Debug\net5.0\Computers.exe
+C:\Users\sadiel\source\repos\Computers\Computers\bin\Debug\net5.0\Computers.deps.json
+C:\Users\sadiel\source\repos\Computers\Computers\bin\Debug\net5.0\Computers.runtimeconfig.json
+C:\Users\sadiel\source\repos\Computers\Computers\bin\Debug\net5.0\Computers.runtimeconfig.dev.json
+C:\Users\sadiel\source\repos\Computers\Computers\bin\Debug\net5.0\Computers.dll
+C:\Users\sadiel\source\repos\Computers\Computers\bin\Debug\net5.0\ref\Computers.dll
+C:\Users\sadiel\source\repos\Computers\Computers\bin\Debug\net5.0\Computers.pdb
+C:\Users\sadiel\source\repos\Computers\Computers\obj\Debug\net5.0\Computers.csproj.AssemblyReference.cache
+C:\Users\sadiel\source\repos\Computers\Computers\obj\Debug\net5.0\Computers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadiel\source\repos\Computers\Computers\obj\Debug\net5.0\Computers.AssemblyInfoInputs.cache
+C:\Users\sadiel\source\repos\Computers\Computers\obj\Debug\net5.0\Computers.AssemblyInfo.cs
+C:\Users\sadiel\source\repos\Computers\Computers\obj\Debug\net5.0\Computers.csproj.CoreCompileInputs.cache
+C:\Users\sadiel\source\repos\Computers\Computers\obj\Debug\net5.0\Computers.dll
+C:\Users\sadiel\source\repos\Computers\Computers\obj\Debug\net5.0\ref\Computers.dll
+C:\Users\sadiel\source\repos\Computers\Computers\obj\Debug\net5.0\Computers.pdb
+C:\Users\sadiel\source\repos\Computers\Computers\obj\Debug\net5.0\Computers.genruntimeconfig.cache

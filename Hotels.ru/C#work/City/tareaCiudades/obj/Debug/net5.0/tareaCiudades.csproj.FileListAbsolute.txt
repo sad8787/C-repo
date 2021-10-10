@@ -1,0 +1,16 @@
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\bin\Debug\net5.0\tareaCiudades.exe
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\bin\Debug\net5.0\tareaCiudades.deps.json
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\bin\Debug\net5.0\tareaCiudades.runtimeconfig.json
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\bin\Debug\net5.0\tareaCiudades.runtimeconfig.dev.json
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\bin\Debug\net5.0\tareaCiudades.dll
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\bin\Debug\net5.0\ref\tareaCiudades.dll
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\bin\Debug\net5.0\tareaCiudades.pdb
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\obj\Debug\net5.0\tareaCiudades.csproj.AssemblyReference.cache
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\obj\Debug\net5.0\tareaCiudades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\obj\Debug\net5.0\tareaCiudades.AssemblyInfoInputs.cache
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\obj\Debug\net5.0\tareaCiudades.AssemblyInfo.cs
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\obj\Debug\net5.0\tareaCiudades.csproj.CoreCompileInputs.cache
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\obj\Debug\net5.0\tareaCiudades.dll
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\obj\Debug\net5.0\ref\tareaCiudades.dll
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\obj\Debug\net5.0\tareaCiudades.pdb
+C:\Users\sadiel\source\repos\tareaCiudades\tareaCiudades\obj\Debug\net5.0\tareaCiudades.genruntimeconfig.cache
