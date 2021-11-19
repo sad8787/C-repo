@@ -1,0 +1,48 @@
+﻿@model IEnumerable<_10and10.Models.Elemento>
+@{   
+    if (ViewBag.NumTimes == null) ViewBag.NumTimes = 0;
+    var Following = ViewBag.NumTimes + 10;
+    var Back = ViewBag.NumTimes - 20;
+    var Final = -1;
+ }
+@{
+    ViewData["Title"] = "Index";
+}
+<div class=" container p-3">
+    <div class="row pt-3">
+        <div class="col-6">
+            <h3 class="text-primary">sadielgodales@gmail.com   Element</h3>
+        </div>
+    </div>
+    <br />
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>id</th>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td width="50%">@item.Id</td>
+                        <td width="50%">@item.Name</td>
+                    </tr>
+                }
+
+                <tr />
+            </tbody>
+        </table>
+    }
+
+    <div class="col-6 text-right">
+        <a asp-controller="ElementosController1" asp-action="Index" asp-route-Id="0" class="btn btn-primary mx-1">Beginning</a>
+        <a asp-controller="ElementosController1" asp-action="Index" asp-route-Id="@Back" class="btn btn-primary mx-1">Back</a>
+        <a asp-controller="ElementosController1" asp-action="Index" asp-route-Id="@Following" class="btn btn-primary mx-1">Following</a>
+        <a asp-controller="ElementosController1" asp-action="Index" asp-route-Id="@Final" class="btn btn-primary mx-1">Final</a>
+    </div>
+</div>
+
