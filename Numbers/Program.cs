@@ -10,9 +10,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Ther!");
-            ulong cont = 0;
-            ulong[] a = new ulong[61];
-            ulong[] b = new ulong[61];
+            long cont = 0;
+            long[] a = new long[61];
+            long[] b = new long[61];
             Number numberA = new Number();
             //Thread thread0=null;
             while (!numberA.Last())//
@@ -23,8 +23,7 @@ namespace ConsoleApp1
                     a[s]++;
                     if (numberA.Cero())
                     {
-                        b[s]++;
-                       // Console.WriteLine(numberA.Cadena() + " " + s);
+                        b[s]++;                       
                     }
                 }
                 numberA.Increase(5);           
@@ -38,8 +37,8 @@ namespace ConsoleApp1
             }
             Console.WriteLine("");
             Console.WriteLine("The total of beautiful numbers with a leading zero is: " + cont);
+            Console.WriteLine("sadielgodales@gmail.com name-> Sadiel Godales Quinones ");
             Console.ReadKey();
-
         }        
        
     }
