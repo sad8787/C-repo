@@ -1,0 +1,5 @@
+D:\NumberBeautiful.exe
+D:\NumberBeautiful.dll
+D:\NumberBeautiful.deps.json
+D:\NumberBeautiful.runtimeconfig.json
+D:\NumberBeautiful.pdb
