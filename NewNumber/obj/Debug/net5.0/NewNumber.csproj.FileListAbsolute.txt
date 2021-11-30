@@ -1,0 +1,16 @@
+C:\Users\sadiel\source\repos\NewNumber\obj\Debug\net5.0\NewNumber.csproj.AssemblyReference.cache
+C:\Users\sadiel\source\repos\NewNumber\obj\Debug\net5.0\NewNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadiel\source\repos\NewNumber\obj\Debug\net5.0\NewNumber.AssemblyInfoInputs.cache
+C:\Users\sadiel\source\repos\NewNumber\obj\Debug\net5.0\NewNumber.AssemblyInfo.cs
+C:\Users\sadiel\source\repos\NewNumber\obj\Debug\net5.0\NewNumber.csproj.CoreCompileInputs.cache
+C:\Users\sadiel\source\repos\NewNumber\bin\Debug\net5.0\NewNumber.exe
+C:\Users\sadiel\source\repos\NewNumber\bin\Debug\net5.0\NewNumber.deps.json
+C:\Users\sadiel\source\repos\NewNumber\bin\Debug\net5.0\NewNumber.runtimeconfig.json
+C:\Users\sadiel\source\repos\NewNumber\bin\Debug\net5.0\NewNumber.runtimeconfig.dev.json
+C:\Users\sadiel\source\repos\NewNumber\bin\Debug\net5.0\NewNumber.dll
+C:\Users\sadiel\source\repos\NewNumber\bin\Debug\net5.0\ref\NewNumber.dll
+C:\Users\sadiel\source\repos\NewNumber\bin\Debug\net5.0\NewNumber.pdb
+C:\Users\sadiel\source\repos\NewNumber\obj\Debug\net5.0\NewNumber.dll
+C:\Users\sadiel\source\repos\NewNumber\obj\Debug\net5.0\ref\NewNumber.dll
+C:\Users\sadiel\source\repos\NewNumber\obj\Debug\net5.0\NewNumber.pdb
+C:\Users\sadiel\source\repos\NewNumber\obj\Debug\net5.0\NewNumber.genruntimeconfig.cache

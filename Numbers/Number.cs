@@ -25,7 +25,11 @@ namespace NumberBeautiful
         {
             return valueA[0] + valueA[1] + valueA[2] + valueA[3] + valueA[4] + valueA[5];
         }
-        public bool Cero()
+        public bool FirstCero()
+        {
+            return (valueA[0] == 0);
+        }
+        public bool LastCero()
         {
             return (valueA[5] == 0);
         }

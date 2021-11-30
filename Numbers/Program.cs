@@ -20,10 +20,13 @@ namespace ConsoleApp1
                 int s = numberA.Sum();                
                 if ( s<= 60)
                 {
-                    a[s]++;
-                    if (numberA.Cero())
+                    if (numberA.FirstCero())
                     {
-                        b[s]++;                       
+                        a[s]++;
+                    }
+                    if (numberA.LastCero())
+                    {
+                        b[s]++;
                     }
                 }
                 numberA.Increase(5);           
