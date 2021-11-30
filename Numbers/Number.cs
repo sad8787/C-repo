@@ -16,22 +16,14 @@ namespace NumberBeautiful
                 valueA[i] = 0;
             }
         }
-        public int[] GetSetvalueA
-        {
-            get { return valueA; }
-            set { valueA = value; }
-        }
+        
         public int Sum()
         {
             return valueA[0] + valueA[1] + valueA[2] + valueA[3] + valueA[4] + valueA[5];
         }
         public bool FirstCero()
         {
-            return (valueA[0] == 0);
-        }
-        public bool LastCero()
-        {
-            return (valueA[5] == 0);
+            return (valueA[0] == 0 && valueA[1] == 0);
         }
         public bool Last()
         {

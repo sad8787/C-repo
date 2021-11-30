@@ -11,32 +11,27 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello Ther!");
             long cont = 0;
-            long[] a = new long[61];
-            long[] b = new long[61];
+            long[] a = new long[49];
+            long[] b = new long[49];
             Number numberA = new Number();
             //Thread thread0=null;
             while (!numberA.Last())//
             {                
                 int s = numberA.Sum();                
-                if ( s<= 60)
+                if ( s<= 48)
                 {
+                    b[s]++;
                     if (numberA.FirstCero())
                     {
                         a[s]++;
                     }
-                    if (numberA.LastCero())
-                    {
-                        b[s]++;
-                    }
+                   
                 }
                 numberA.Increase(5);           
             }
-            for (int s = 0; s < 61; s++)
-            {
-                if (a[s]!=0 && b[s]!=0)
-                {
-                    cont += a[s] * b[s] * 13;
-                }
+            for (int s = 0; s < 49; s++)
+            {      
+                    cont += a[s] * b[s] * 13;              
             }
             Console.WriteLine("");
             Console.WriteLine("The total of beautiful numbers with a leading zero is: " + cont);
