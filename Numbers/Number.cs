@@ -25,9 +25,9 @@ namespace NumberBeautiful
         {
             return (valueA[0] == 0 && valueA[1] == 0);
         }
-        public bool Last()
+        public bool Last()//CCCC01
         {
-            return (valueA[0] == 12 && valueA[1] == 12 && valueA[2] == 12 && valueA[3] == 12 && valueA[4] == 12 && valueA[5] == 12);
+            return (valueA[0] == 12 && valueA[1] == 12 && valueA[2] == 12 && valueA[3] == 12 && valueA[5] == 1);//CCCC01
         }
         public void Increase(int poss) //desde 6 a 0
         {
