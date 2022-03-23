@@ -1,0 +1,12 @@
+C:\Users\sadiel\source\repos\payroll\bin\Debug\net5.0\payroll.deps.json
+C:\Users\sadiel\source\repos\payroll\bin\Debug\net5.0\payroll.dll
+C:\Users\sadiel\source\repos\payroll\bin\Debug\net5.0\ref\payroll.dll
+C:\Users\sadiel\source\repos\payroll\bin\Debug\net5.0\payroll.pdb
+C:\Users\sadiel\source\repos\payroll\obj\Debug\net5.0\payroll.csproj.AssemblyReference.cache
+C:\Users\sadiel\source\repos\payroll\obj\Debug\net5.0\payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadiel\source\repos\payroll\obj\Debug\net5.0\payroll.AssemblyInfoInputs.cache
+C:\Users\sadiel\source\repos\payroll\obj\Debug\net5.0\payroll.AssemblyInfo.cs
+C:\Users\sadiel\source\repos\payroll\obj\Debug\net5.0\payroll.csproj.CoreCompileInputs.cache
+C:\Users\sadiel\source\repos\payroll\obj\Debug\net5.0\payroll.dll
+C:\Users\sadiel\source\repos\payroll\obj\Debug\net5.0\ref\payroll.dll
+C:\Users\sadiel\source\repos\payroll\obj\Debug\net5.0\payroll.pdb
