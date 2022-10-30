@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadiel\\source\\repos\\Task1\\Task1.csproj": {}
+    "C:\\Users\\sadie\\OneDrive\\Documentos\\GitHub\\C-repo\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadiel\\source\\repos\\Task1\\Task1.csproj": {
+    "C:\\Users\\sadie\\OneDrive\\Documentos\\GitHub\\C-repo\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadiel\\source\\repos\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\sadie\\OneDrive\\Documentos\\GitHub\\C-repo\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\sadiel\\source\\repos\\Task1\\Task1.csproj",
-        "packagesPath": "C:\\Users\\sadiel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadiel\\source\\repos\\Task1\\obj\\",
+        "projectPath": "C:\\Users\\sadie\\OneDrive\\Documentos\\GitHub\\C-repo\\Task1\\Task1.csproj",
+        "packagesPath": "C:\\Users\\sadie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadie\\OneDrive\\Documentos\\GitHub\\C-repo\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sadiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sadie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
