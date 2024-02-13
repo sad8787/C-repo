@@ -1,0 +1,16 @@
+C:\Users\sadie\source\repos\Console_List_Delete_repited\bin\Debug\net5.0\Console_List_Delete_repited.exe
+C:\Users\sadie\source\repos\Console_List_Delete_repited\bin\Debug\net5.0\Console_List_Delete_repited.deps.json
+C:\Users\sadie\source\repos\Console_List_Delete_repited\bin\Debug\net5.0\Console_List_Delete_repited.runtimeconfig.json
+C:\Users\sadie\source\repos\Console_List_Delete_repited\bin\Debug\net5.0\Console_List_Delete_repited.runtimeconfig.dev.json
+C:\Users\sadie\source\repos\Console_List_Delete_repited\bin\Debug\net5.0\Console_List_Delete_repited.dll
+C:\Users\sadie\source\repos\Console_List_Delete_repited\bin\Debug\net5.0\ref\Console_List_Delete_repited.dll
+C:\Users\sadie\source\repos\Console_List_Delete_repited\bin\Debug\net5.0\Console_List_Delete_repited.pdb
+C:\Users\sadie\source\repos\Console_List_Delete_repited\obj\Debug\net5.0\Console_List_Delete_repited.csproj.AssemblyReference.cache
+C:\Users\sadie\source\repos\Console_List_Delete_repited\obj\Debug\net5.0\Console_List_Delete_repited.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadie\source\repos\Console_List_Delete_repited\obj\Debug\net5.0\Console_List_Delete_repited.AssemblyInfoInputs.cache
+C:\Users\sadie\source\repos\Console_List_Delete_repited\obj\Debug\net5.0\Console_List_Delete_repited.AssemblyInfo.cs
+C:\Users\sadie\source\repos\Console_List_Delete_repited\obj\Debug\net5.0\Console_List_Delete_repited.csproj.CoreCompileInputs.cache
+C:\Users\sadie\source\repos\Console_List_Delete_repited\obj\Debug\net5.0\Console_List_Delete_repited.dll
+C:\Users\sadie\source\repos\Console_List_Delete_repited\obj\Debug\net5.0\ref\Console_List_Delete_repited.dll
+C:\Users\sadie\source\repos\Console_List_Delete_repited\obj\Debug\net5.0\Console_List_Delete_repited.pdb
+C:\Users\sadie\source\repos\Console_List_Delete_repited\obj\Debug\net5.0\Console_List_Delete_repited.genruntimeconfig.cache
