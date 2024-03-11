@@ -48,25 +48,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sadiel\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\sadie\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\C-repo\\api_openweathermap_org\\api_openweathermap_org.csproj",
+      "projectUniqueName": "C:\\Users\\sadie\\OneDrive\\Documentos\\GitHub\\C-repo\\api_openweathermap_org\\api_openweathermap_org.csproj",
       "projectName": "api_openweathermap_org",
-      "projectPath": "D:\\GitHub\\C-repo\\api_openweathermap_org\\api_openweathermap_org.csproj",
-      "packagesPath": "C:\\Users\\sadiel\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\C-repo\\api_openweathermap_org\\obj\\",
+      "projectPath": "C:\\Users\\sadie\\OneDrive\\Documentos\\GitHub\\C-repo\\api_openweathermap_org\\api_openweathermap_org.csproj",
+      "packagesPath": "C:\\Users\\sadie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sadie\\OneDrive\\Documentos\\GitHub\\C-repo\\api_openweathermap_org\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\sadiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sadie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0-windows7.0"
@@ -114,7 +117,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
